@@ -86,4 +86,4 @@ def taximeter():
             print("Unknown command. Use: start, stop, move, finish, or exit.")
 
 if __name__ == "__main__":
-    taximeter() 
+    taximeter()
